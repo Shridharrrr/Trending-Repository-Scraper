@@ -1,4 +1,4 @@
-# GitHub Trending Scraper
+# Trending Repositories Scraper
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 
